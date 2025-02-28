@@ -75,3 +75,4 @@ ai_remote.status()
 
 # Perform the preferred action based on the logged actions
 ai_remote.perform_preferred_action()
+import random
